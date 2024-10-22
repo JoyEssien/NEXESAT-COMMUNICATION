@@ -30,6 +30,13 @@ NexaSat, a telecom company, struggles with optimizing its marketing strategies d
 
 The project aims to implement Customer Lifetime Value (CLV) segmentation to categorize customers based on their long-term value. By doing so, NexaSat can tailor marketing efforts, focus on high-value segments, and increase revenue through up-selling and cross-selling. The goal is to enhance customer satisfaction, loyalty, and overall profitability.
 
+
+
+![Screenshot 2024-10-14 130930](https://github.com/user-attachments/assets/80e6e84d-d98f-4e55-8eca-c807a4329d7d)
+
+
+
+
 ### DATA ANALYSIS STEPS
 
 From the existing dataset, there were a number of churned customers and i wanted to work with only existing customers to get the true analysis of the Company's current database; 
