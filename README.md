@@ -3,14 +3,14 @@ CLV SEGEMENTATION FOR NEXESAT COMMUNICATION REVENUE GROWTH
 
 
 ## TABLE OF CONTENTS
- - [TOOLS USED](tools-used)
- - [DATASET](dataset)
- - [BUSINESS PROBLEM](business-problem)
- - [PROJECT OBJECTIVE](project-objective)
- - [DATA ANALYSIS STEPS](data-analysis-steps)
- - [DATA OVERVIEW](data-overview)
- - [PROJECT FINDINGS](project-findings)
- - [RECOMMENDATION FOR NEXESAT MARKETING STRATEGY](recommendation-for-nexesat-marketing-strategy)
+ - [TOOLS USED](#tools-used)
+ - [DATASET](#dataset)
+ - [BUSINESS PROBLEM](#business-problem)
+ - [PROJECT OBJECTIVE](#project-objective)
+ - [DATA ANALYSIS STEPS](#data-analysis-steps)
+ - [DATA OVERVIEW](#data-overview)
+ - [PROJECT FINDINGS](#project-findings)
+ - [RECOMMENDATION FOR NEXESAT MARKETING STRATEGY](#recommendation-for-nexesat-marketing-strategy)
 
 
 ### TOOLS USED :
