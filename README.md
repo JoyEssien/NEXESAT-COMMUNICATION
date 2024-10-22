@@ -147,6 +147,8 @@ The analysis of NexaSat's customer data from June 2023 revealed several importan
 
    By focusing on targeted, data-driven marketing strategies and customer engagement, NexaSat can maximize its revenue, reduce churn, and build stronger, long-lasting customer relationships.
 
+   Thank you 😃 🤝
+
 
  
     
